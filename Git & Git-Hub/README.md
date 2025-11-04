@@ -32,10 +32,10 @@
 	- the whole code will be merge here with piece.
 	- Website
 		- ###### Master
-			- Anisto (Front)
-			- Vicky (Backend)
-			- Akash (UI)
-			- Bob (Payment)
+			- aaa (Front)
+			- bbb (Backend)
+			- ccc (UI)
+			- ddd (Payment)
 	
 - ##### Tag
 	- like a bookmark
